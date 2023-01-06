@@ -9,12 +9,11 @@ Machine learning collection:
 - Data science lab and methods a.y. 2022/2023 (**expected delivery on 05/02/2023**):
   1. Set of propaedeutic exercises for DS.
   2. NLP twitter sentiment analysis prediction a.y. 2021_2022
-  3. New problem a.y. 2022_2023 (to be defined)
+  3. Audio classification a.y. 2022_2023 (to be defined)
 
 - Numerical optimization for large scale problems a.y. 2022/2023 (**expected delivery on 25/01/2023**):
-  1. Unconstrained optimization (try to base it on previous year results)
-  2. Stochastic optimization problem (do a problem)
-  3. (Study for constrained optimization)
+  1. Homework on Unconstrained optimization - implement new Python methods
+  2. Homeowork on Constrained optimization - implement Python methods
 
  - Computational linear algebra for large scale problems a.y. 2022/2023 (**expected delivery on 16/01/2023**):
-  1. Problem on PCA and solving lots of exercises
+  1. Homework on PCA
